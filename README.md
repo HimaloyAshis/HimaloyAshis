@@ -1,5 +1,4 @@
-### Hi there 👋, my name is himaloy ashis
-#### Web Developer
+
 ![Web Developer](https://media.licdn.com/dms/image/D5616AQFjFTzrL2nC4Q/profile-displaybackgroundimage-shrink_350_1400/0/1689014324515?e=1695254400&v=beta&t=HSI0jPZkvZQFGp4XezyUfJFV2tymZOKKE0sA13gIooE)
 
 Hello, fellow developers! 👋 I'm [Your Name], a passionate and dedicated full-stack developer, and this is my GitHub haven where I breathe life into exciting and innovative projects.
