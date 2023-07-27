@@ -1,5 +1,5 @@
 
-![Web Developer]([https://media.licdn.com/dms/image/D5616AQFjFTzrL2nC4Q/profile-displaybackgroundimage-shrink_350_1400/0/1689014324515?e=1695254400&v=beta&t=HSI0jPZkvZQFGp4XezyUfJFV2tymZOKKE0sA13gIooE](https://media.licdn.com/dms/image/D5616AQFNH-ex_agVrg/profile-displaybackgroundimage-shrink_350_1400/0/1690427966210?e=1695859200&v=beta&t=h7_LjxedYz848W72_UNUlgTy7Vds_LYaQUvE3WBibxM))
+![Web Developer](https://media.licdn.com/dms/image/D5616AQFNH-ex_agVrg/profile-displaybackgroundimage-shrink_350_1400/0/1690427966210?e=1695859200&v=beta&t=h7_LjxedYz848W72_UNUlgTy7Vds_LYaQUvE3WBibxM)
 
 Hello, fellow developers! 👋 I'm Himaloy Bala Ashis, a passionate and dedicated full-stack developer, and this is my GitHub haven where I breathe life into exciting and innovative projects.
 
