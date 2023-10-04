@@ -1,5 +1,5 @@
 
-![Web Developer][(https://media.licdn.com/dms/image/D5616AQFNH-ex_agVrg/profile-displaybackgroundimage-shrink_350_1400/0/1690427966210?e=1695859200&v=beta&t=h7_LjxedYz848W72_UNUlgTy7Vds_LYaQUvE3WBibxM](https://www.linkedin.com/in/himaloy-bala-ashis-2b9a66245/overlay/background-image/))
+[Web Developer][())
 
 Hello, fellow developers! 👋 I'm Himaloy Bala Ashis, a passionate and dedicated full-stack developer, and this is my GitHub haven where I breathe life into exciting and innovative projects.
 
