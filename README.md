@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himaloy Bala Ashis</h1>
-<h3 align="center">a passionate and dedicated full-stack developer, and this is my GitHub haven where I breathe life into exciting and innovative projects.</h3>
+<h3 align="center">A passionate and dedicated full-stack developer, and this is my GitHub haven where I breathe life into exciting and innovative projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himaloyashis&label=Profile%20views&color=0e75b6&style=flat" alt="himaloyashis" /> </p>
 
