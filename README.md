@@ -31,8 +31,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/himaloyashis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="himaloyashis" height="30" width="40" /></a>
 <a href="https://twitter.com/ashisba007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashisba007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/himaloy-bala-ashis-2b9a66245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/himaloy-bala-ashis-2b9a66245/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/himaloy-bala-ashis-2b9a66245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himaloy-bala-ashis-2b9a66245/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22446519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22446519" height="30" width="40" /></a>
 <a href="https://fb.com/himaloyashis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himaloyashis" height="30" width="40" /></a>
 <a href="https://instagram.com/himaloyashis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himaloyashis" height="30" width="40" /></a>
