@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **himaloyashis98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1axdDfakhieTML5zrRNMhIoNz0FDd7XaK](https://drive.google.com/drive/folders/1axdDfakhieTML5zrRNMhIoNz0FDd7XaK)
+- 📄 Know about my experiences [https://drive.google.com/file/d/199fNOxlIMHvdm1ew5bVl9GJ8u5DzOono/view?usp=sharing](https://drive.google.com/file/d/199fNOxlIMHvdm1ew5bVl9GJ8u5DzOono/view?usp=sharing)
 
 - ⚡ Fun fact **It is important to learn guitar first, before learning web development.**
 
@@ -36,6 +36,7 @@
 <a href="https://fb.com/himaloyashis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himaloyashis" height="30" width="40" /></a>
 <a href="https://instagram.com/himaloyashis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himaloyashis" height="30" width="40" /></a>
 <a href="https://medium.com/@himaloyashis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@himaloyashis" height="30" width="40" /></a>
+<a href="https://discord.gg/1134879254916636754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1134879254916636754" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
