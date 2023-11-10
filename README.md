@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **himaloyashis98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/199fNOxlIMHvdm1ew5bVl9GJ8u5DzOono/view?usp=sharing](https://drive.google.com/file/d/199fNOxlIMHvdm1ew5bVl9GJ8u5DzOono/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1B-gADea1BrwApOF5u3KVbIR4GbZ4FW8B?usp=sharing](https://drive.google.com/drive/folders/1B-gADea1BrwApOF5u3KVbIR4GbZ4FW8B?usp=sharing)
 
 - ⚡ Fun fact **It is important to learn guitar first, before learning web development.**
 
