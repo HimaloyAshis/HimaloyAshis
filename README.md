@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himaloyashis&label=Profile%20views&color=0e75b6&style=flat" alt="himaloyashis" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ashisba007" target="blank"><img src="https://img.shields.io/twitter/follow/ashisba007?logo=twitter&style=for-the-badge" alt="himaloyashish" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ashisba007" target="blank"><img src="https://img.shields.io/twitter/follow/ashisba007?logo=twitter&style=for-the-badge" alt="ashisBa007" /></a> </p>
 
 - 🔭 I’m currently working on [on my new preject](https://likho-doc.netlify.app/)
 
