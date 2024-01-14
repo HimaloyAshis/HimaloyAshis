@@ -1,5 +1,5 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/himaloyashish/himaloyashish/blob/master/devcard.svg" width="400" alt="Himaloy Ashish's Dev Card"/></a>
 
+<img src="https://github.com/himaloyashish/himaloyashish/blob/master/devcard.svg" width="400" alt="Himaloy Ashish's Dev Card"/>
 <h1 align="center">Hi 👋, I'm Himaloy Bala Ashish</h1>
 <h3 align="center">A passionate and dedicated full-stack developer from Bangladesh, and this is my GitHub haven where I breathe life into exciting and innovative projects.</h3>
 
