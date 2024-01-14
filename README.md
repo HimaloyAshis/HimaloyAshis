@@ -1,5 +1,4 @@
 
-<img src="https://github.com/himaloyashish/himaloyashish/blob/main/devcard.svg" width="400" alt="Himaloy Ashish's Dev Card"/>
 <h1 align="center">Hi 👋, I'm Himaloy Bala Ashish</h1>
 <h3 align="center">A passionate and dedicated full-stack developer from Bangladesh, and this is my GitHub haven where I breathe life into exciting and innovative projects.</h3>
 
@@ -26,6 +25,8 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1B-gADea1BrwApOF5u3KVbIR4GbZ4FW8B?usp=sharing](https://drive.google.com/drive/folders/1B-gADea1BrwApOF5u3KVbIR4GbZ4FW8B?usp=sharing)
 
 - ⚡ Fun fact **It is important to learn guitar first, before learning web development.**
+
+<img src="https://github.com/himaloyashish/himaloyashish/blob/main/devcard.svg" width="400" alt="Himaloy Ashish's  Dev Card"/>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
