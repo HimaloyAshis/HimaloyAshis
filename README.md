@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Himaloy Bala Ashish</h1>
 <h3 align="center">A passionate and dedicated full-stack developer from Bangladesh, and this is my GitHub haven where I breathe life into exciting and innovative projects.</h3>
 
@@ -26,7 +25,7 @@
 
 - ⚡ Fun fact **It is important to learn guitar first, before learning web development.**
 
-<img src="https://github.com/himaloyashish/himaloyashish/blob/main/devcard.svg" width="400" alt="Himaloy Ashish's  Dev Card"/>
+- <img src="https://github.com/himaloyashish/himaloyashish/blob/main/devcard.svg" width="400" alt="Himaloy Ashish's  Dev Card"/>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -36,7 +35,7 @@
 <p align="left">
 <a href="https://dev.to/himaloyashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="himaloyashish" height="30" width="40" /></a>
 <a href="https://twitter.com/himaloyashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himaloyashish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/himaloy-bala-ashish-2b9a66245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himaloy-bala-ashish-2b9a66245/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/himaloyashish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himaloyashish/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22446519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22446519" height="30" width="40" /></a>
 <a href="https://fb.com/himaloyashis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himaloyashis" height="30" width="40" /></a>
 <a href="https://instagram.com/himaloyashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himaloyashish" height="30" width="40" /></a>
